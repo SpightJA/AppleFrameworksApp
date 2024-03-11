@@ -65,12 +65,12 @@
 		BF4502862B9BE63E007E7D08 /* AppleFrameworksApp */ = {
 			isa = PBXGroup;
 			children = (
+				BF4502872B9BE63E007E7D08 /* AppleFrameworksAppApp.swift */,
+				BF45028B2B9BE640007E7D08 /* Assets.xcassets */,
 				BFFC675B2B9C11CD00414A09 /* UIKit Components */,
 				BFFC67582B9C118700414A09 /* Views */,
-				BF4502872B9BE63E007E7D08 /* AppleFrameworksAppApp.swift */,
 				BFFC67572B9C114B00414A09 /* Model */,
 				BFFC67542B9C110200414A09 /* Screens */,
-				BF45028B2B9BE640007E7D08 /* Assets.xcassets */,
 				BF45028D2B9BE640007E7D08 /* Preview Content */,
 			);
 			path = AppleFrameworksApp;
