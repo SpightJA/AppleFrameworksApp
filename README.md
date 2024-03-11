@@ -3,7 +3,8 @@ Updated Description coming soon
 
 
 <img width="473" alt="Adjust- 3" src="https://github.com/SpightJA/AppleFrameworksApp/assets/43256781/3bd0df48-b654-4b4a-b274-0dae19e3603d">
-<img width="482" alt="Light-3" src="https://github.com/SpightJA/AppleFrameworksApp/assets/43256781/befcb998-c06d-4fd2-802d-51cdbebb4e36">
+<img width="473" alt="adjust-3" src="https://github.com/SpightJA/AppleFrameworksApp/assets/43256781/f6f2524c-19ed-44a9-8808-df07242d1f09">
+
 
 ![Dark- Home](https://github.com/SpightJA/AppleFrameworksApp/assets/43256781/98fdfa34-363d-4f77-9459-b41878aa4c11)
 ![Dark-Detail](https://github.com/SpightJA/AppleFrameworksApp/assets/43256781/e358add7-315d-4726-9a74-d9ce373df067)
