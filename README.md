@@ -1,5 +1,7 @@
-Updated Description coming soon
-
+Explore Apple's framework with just a click! Built with SwiftUI and UIKit in an MVVM architecture, 
+										this app is inspired by Sean Allen's teachings. Seamlssly navigate Apple's frameworks with 
+										a grid layout, designed for intuitive exploration. Join me in unraveling Apple's 
+										technologies, one click at a time.
 
 
 <img width="473" alt="Adjust- 3" src="https://github.com/SpightJA/AppleFrameworksApp/assets/43256781/3bd0df48-b654-4b4a-b274-0dae19e3603d">
